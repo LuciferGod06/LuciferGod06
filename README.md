@@ -2,7 +2,7 @@
 
 <!--
 **LuciferGod06/LuciferGod06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
