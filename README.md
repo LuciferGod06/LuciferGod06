@@ -53,7 +53,7 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
     <br></br>
 
 
-  <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferGod06&theme=neon&border_radius=2.7" alt="Bharat-Shaw" />
+  <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferGod06&theme=neon&border_radius=2.7" alt="Gourav Prasad" />
   
   <br/>
 </a>
