@@ -1,4 +1,4 @@
- Hi https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif , I am Gourav Prasad
+[<img src="https://raw.githubusercontent.com/GouravPrasad/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 <!--
 **LuciferGod06/LuciferGod06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
