@@ -4,5 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;&center=true&width=500&height=50">
 </p>
 
-Solution-focused and detail-oriented aspiring full-stack developer. Capable of writing production-ready code using React, Redux, and CSS on the frontend, Node.js, and Express.js on the backend to build single-page applications. Passionate about coding and strongly interested in working in a fast-paced environment.
+<p>
+Dedicated Full Stack Developer passionate about crafting innovative web solutions.I thrive in building scalable and intuitive applications.
+ My tech stack includes HTML, CSS, JavaScript, ReactJS, Node.js, and various databases. Let's collaborate and create exceptional user experiences together!</p>
+
 
