@@ -23,9 +23,13 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
 
 
 
-- Connect with me 
- <a href="https://www.linkedin.com/in/gourav-prasad-388708155/" target="_blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="rahulkumar004" height="30" width="40" /> </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prasadgourav46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikesch_34" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gourav-prasad-388708155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahendra-chauhan-b111561b1/" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/prasadgourav46?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mikesch803" height="30" width="40" /></a>
+</p>
 
 
 
