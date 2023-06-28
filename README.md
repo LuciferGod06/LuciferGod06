@@ -19,8 +19,7 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
 - 📫 How to reach me **prasadgourav46@gmail.com**
 
 
-<a href="https://www.linkedin.com/in/gourav-prasad-388708155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulkumar004" height="30" width="40" />LinkedIn</a>
-</h3>
+- Connect with me  <a href="https://www.linkedin.com/in/gourav-prasad-388708155/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulkumar004" height="30" width="40" />LinkedIn</a>
 
 
 
