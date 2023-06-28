@@ -51,7 +51,10 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
 <a> 
     <a href="https://github.com/LuciferGod06"><img alt="Gourav Github Status" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LuciferGod06&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
     <br></br>
-  <a href="https://github.com/LuciferGod06"><img alt="Gourav's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LuciferGod06&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
+
+  <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciferGod06&theme=neon&border_radius=2.7" alt="Bharat-Shaw" />
+  
   <br/>
 </a>
 
