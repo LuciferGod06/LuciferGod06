@@ -20,7 +20,7 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
  **prasadgourav46@gmail.com**
 
    - 👨‍💻 All of my projects are available at [https://LuciferGod06.github.io/](https://LuciferGod06.github.io/) 
-  - Resume at(https://drive.google.com/file/d/14LngOxOML7EdfuT02n0Dnc8tuL7YwoZX/view?usp=sharing)
+  - Resume at  https://drive.google.com/file/d/14LngOxOML7EdfuT02n0Dnc8tuL7YwoZX/view?usp=sharing
 
 
 
