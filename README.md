@@ -11,14 +11,14 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
 
 
 
-- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java**
+- 💬 Ask me about **React | ChakraUI | Redux | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Java | SQL | Postgresql**
 
 
 
 - 📫 How to reach me
  **prasadgourav46@gmail.com**
 
-   - 👨‍💻 All of my projects are available at [https://LuciferGod06.github.io/](https://LuciferGod06.github.io/) 
+   - 👨‍💻 All of my projects are available at [[https://LuciferGod06.github.io/](https://gourav-portfolio-sde.vercel.app/)](https://gourav-portfolio-sde.vercel.app/) 
   - Resume at <a href="https://drive.google.com/file/d/1orSB36BBSldKoD_WUKfh1S69H4vLLb4M/view?usp=drive_link" target="_blank" >Click Here</a>
 
 
