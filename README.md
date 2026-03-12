@@ -18,7 +18,7 @@ Dedicated Full Stack Developer passionate about crafting innovative web solution
 - 📫 How to reach me
  **prasadgourav46@gmail.com**
 
-   - 👨‍💻 All of my projects are available at [[https://LuciferGod06.github.io/](https://gourav-portfolio-sde.vercel.app/)](https://gourav-portfolio-sde.vercel.app/) 
+   - 👨‍💻 All of my projects are available at [(https://gourav-portfolio-sde.vercel.app/)](https://gourav-portfolio-sde.vercel.app/) 
   - Resume at <a href="https://drive.google.com/file/d/1h0YWKi3RkxAnCY1X1hhC8vo-mS5BPPW2/view?usp=sharing" target="_blank" >Click Here</a>
 
 
